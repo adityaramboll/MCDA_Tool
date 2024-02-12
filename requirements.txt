@@ -1,5 +1,5 @@
 pandas
 matplotlib
 ipywidgets
-scikit-criteria == 0.8.3
+scikit-criteria 
 voila
