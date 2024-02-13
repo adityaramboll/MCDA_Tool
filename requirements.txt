@@ -1,9 +1,9 @@
 
-ipywidgets == 8.1.2
-matplotlib == 3.8.0
-numpy == 1.26.3
-pandas == 2.1.4
-scikit-criteria == 0.8.7
+ipywidgets 
+matplotlib 
+numpy 
+pandas 
+scikit-criteria 
 scikit-learn 
 IPython 
 jupyter_client 
