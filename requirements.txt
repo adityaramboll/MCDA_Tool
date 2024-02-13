@@ -4,10 +4,10 @@ matplotlib == 3.8.0
 numpy == 1.26.3
 pandas == 2.1.4
 scikit-criteria == 0.8.7
-scikit-learn == 1.3.2
-IPython == 8.21.0
-jupyter_client == 8.6.0
-jupyter_core == 5.5.0
-jupyterlab == 4.0.12
-notebook  == 7.0.8
+scikit-learn 
+IPython 
+jupyter_client 
+jupyter_core 
+jupyterlab 
+notebook  
 voila
